@@ -74,8 +74,6 @@ This repository serves as a living index of my writing and technical growth.
 **لینک مقاله**  
 🔗 https://nikamooz.com/clean-code/
 
-> (Already added in previous commit)
-
 ---
 
 ### From Junior to Senior: Understanding Challenges in Large Projects
