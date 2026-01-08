@@ -38,7 +38,7 @@ This repository serves as a living index of my writing and technical growth.
 
 ---
 
-### Repository Pattern در لایهٔ Infrastructure
+### الگوی Repository در لایهٔ Infrastructure
 
 **توضیح کوتاه**  
 این مقاله به بررسی کاربرد Repository و Unit of Work در لایهٔ Infrastructure می‌پردازد.
@@ -65,7 +65,7 @@ This repository serves as a living index of my writing and technical growth.
 
 ---
 
-### Clean Code: چرا کد تمیز اهمیت دارد
+### قوانین Clean Code: چرا کد تمیز اهمیت دارد
 
 **توضیح کوتاه**  
 این مقاله بررسی می‌کند چرا برخی پروژه‌ها با گذشت زمان پرهزینه و پرخطر می‌شوند. تمرکز بر طرز فکر و هنجارهای رفتاری کدنویسی است و چارچوبی بر اساس اصول 5S ژاپنی ارائه می‌دهد که نشان می‌دهد کیفیت کد محصول یک سیستم ساختاریافته و منظم است.
