@@ -10,7 +10,7 @@ This repository serves as a living index of my writing and technical growth.
 - [From Junior to Senior: Understanding Challenges in Large Projects](#from-junior-to-senior-understanding-challenges-in-large-projects)
 - [Getting Started with CI/CD and Azure DevOps Pipelines](#getting-started-with-cicd-and-azure-devops-pipelines)
 - [RESTful API Design and HTTP Status Codes](#RESTful-API-Design-and-HTTP-Status-Codes)
-- [String Formatting in C#](#String-Formatting-in-C#)
+- [String Formatting in C#](#string-formatting-in-c)
 ---
 ## مقالات فارسی
 
