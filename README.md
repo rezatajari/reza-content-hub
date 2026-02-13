@@ -9,7 +9,7 @@ This repository serves as a living index of my writing and technical growth.
 
 - [From Junior to Senior: Understanding Challenges in Large Projects](#from-junior-to-senior-understanding-challenges-in-large-projects)
 - [Getting Started with CI/CD and Azure DevOps Pipelines](#getting-started-with-cicd-and-azure-devops-pipelines)
-
+- [RESTful API Design and HTTP Status Codes](#RESTful-API-Design-and-HTTP-Status-Codes)
 ---
 ## مقالات فارسی
 
@@ -128,6 +128,21 @@ Substack
 
 **Link**  
 🔗 https://rezatajari.substack.com/p/getting-started-with-cicd-and-pipelines
+
+---
+
+### RESTful API Design and HTTP Status Codes
+
+
+**Context**  
+REST (Representational State Transfer) is an architectural style for networked applications defined by Roy Fielding in 2000. 
+It has become the dominant approach for web APIs because it provides a set of design constraints that encourage clarity and consistency.
+
+**Website**  
+Substack
+
+**Link**  
+🔗 https://rezatajari.substack.com/p/restful-api-design-and-http-status
 
 ---
 
