@@ -10,6 +10,7 @@ This repository serves as a living index of my writing and technical growth.
 - [From Junior to Senior: Understanding Challenges in Large Projects](#from-junior-to-senior-understanding-challenges-in-large-projects)
 - [Getting Started with CI/CD and Azure DevOps Pipelines](#getting-started-with-cicd-and-azure-devops-pipelines)
 - [RESTful API Design and HTTP Status Codes](#RESTful-API-Design-and-HTTP-Status-Codes)
+- [String Formatting in C#](#String-Formatting-in-C#)
 ---
 ## مقالات فارسی
 
@@ -159,6 +160,19 @@ Substack
 **Link**  
 🔗 https://rezatajari.substack.com/p/restful-api-design-and-http-status
 
+---
+
+### String Formatting in C#
+
+
+**Context**  
+This article is about why string formatting exists, how the core mechanisms work, and when to choose each approach in modern C#.
+
+**Website**  
+Substack
+
+**Link**  
+🔗 https://rezatajari.substack.com/p/string-formatting-in-c
 ---
 
 ### Subscribe to my Weekly Newsletter
