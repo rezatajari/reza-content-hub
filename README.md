@@ -11,6 +11,7 @@ This repository serves as a living index of my writing and technical growth.
 - [Getting Started with CI/CD and Azure DevOps Pipelines](#getting-started-with-cicd-and-azure-devops-pipelines)
 - [RESTful API Design and HTTP Status Codes](#RESTful-API-Design-and-HTTP-Status-Codes)
 - [String Formatting in C#](#string-formatting-in-c)
+- [Exception Handling in ASP.NET Core](#Exception-Handling-in-ASP.NET-Core)
 ---
 ## مقالات فارسی
 
@@ -173,6 +174,21 @@ Substack
 
 **Link**  
 🔗 https://rezatajari.substack.com/p/string-formatting-in-c
+
+---
+
+### Exception Handling in ASP.NET Core
+
+
+**Context**  
+How structured error management, middleware, and intelligent logging transform your .NET applications into reliable, resilient systems
+
+**Website**  
+Substack
+
+**Link**  
+🔗 https://rezatajari.substack.com/p/exception-handling-in-aspnet-core
+
 ---
 
 ### Subscribe to my Weekly Newsletter
