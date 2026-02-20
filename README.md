@@ -25,6 +25,84 @@ This repository serves as a living index of my writing and technical growth.
 
 ---
 
+### From Junior to Senior: Understanding Challenges in Large Projects
+
+**Context**  
+Junior engineers entering a large software team or a project with an extensive legacy codebase often face overwhelming complexity. They encounter confusion and uncertainty, and key skills are underdeveloped. Small changes can ripple across the system unexpectedly. This stage highlights the gap between hands-on experience and understanding the system as a whole, emphasizing learning and system-awareness.
+
+**Website**  
+Substack
+
+**Link**  
+🔗 https://rezatajari.substack.com/p/from-junior-to-senior
+
+---
+
+### Getting Started with CI/CD and Azure DevOps Pipelines
+
+**Context**  
+Writing code alone is no longer sufficient in modern software development. CI/CD pipelines automate build, test, and deployment processes, improving reliability, visibility, and team coordination. This article explains how Azure DevOps Pipelines enable teams to deliver code with confidence, replacing error-prone manual workflows.
+
+**Website**  
+Substack
+
+**Link**  
+🔗 https://rezatajari.substack.com/p/getting-started-with-cicd-and-pipelines
+
+---
+
+### RESTful API Design and HTTP Status Codes
+
+
+**Context**  
+REST (Representational State Transfer) is an architectural style for networked applications defined by Roy Fielding in 2000. 
+It has become the dominant approach for web APIs because it provides a set of design constraints that encourage clarity and consistency.
+
+**Website**  
+Substack
+
+**Link**  
+🔗 https://rezatajari.substack.com/p/restful-api-design-and-http-status
+
+---
+
+### String Formatting in C#
+
+
+**Context**  
+This article is about why string formatting exists, how the core mechanisms work, and when to choose each approach in modern C#.
+
+**Website**  
+Substack
+
+**Link**  
+🔗 https://rezatajari.substack.com/p/string-formatting-in-c
+
+---
+
+### Exception Handling in ASP.NET Core
+
+
+**Context**  
+How structured error management, middleware, and intelligent logging transform your .NET applications into reliable, resilient systems
+
+**Website**  
+Substack
+
+**Link**  
+🔗 https://rezatajari.substack.com/p/exception-handling-in-aspnet-core
+
+---
+
+### Subscribe to my Weekly Newsletter
+
+For regular insights on backend development, system thinking, and software engineering, you can subscribe to my newsletter:
+
+🔗 https://rezatajari.substack.com/
+
+---
+
+
 ### مسیریابی در Razor Pages: از مفاهیم پایه تا پیاده‌سازی
 
 **توضیح کوتاه**  
@@ -120,79 +198,4 @@ This repository serves as a living index of my writing and technical growth.
 لینک مقاله
 🔗 https://nikamooz.com/junior-or-senior/
 
----
 
-### From Junior to Senior: Understanding Challenges in Large Projects
-
-**Context**  
-Junior engineers entering a large software team or a project with an extensive legacy codebase often face overwhelming complexity. They encounter confusion and uncertainty, and key skills are underdeveloped. Small changes can ripple across the system unexpectedly. This stage highlights the gap between hands-on experience and understanding the system as a whole, emphasizing learning and system-awareness.
-
-**Website**  
-Substack
-
-**Link**  
-🔗 https://rezatajari.substack.com/p/from-junior-to-senior
-
----
-
-### Getting Started with CI/CD and Azure DevOps Pipelines
-
-**Context**  
-Writing code alone is no longer sufficient in modern software development. CI/CD pipelines automate build, test, and deployment processes, improving reliability, visibility, and team coordination. This article explains how Azure DevOps Pipelines enable teams to deliver code with confidence, replacing error-prone manual workflows.
-
-**Website**  
-Substack
-
-**Link**  
-🔗 https://rezatajari.substack.com/p/getting-started-with-cicd-and-pipelines
-
----
-
-### RESTful API Design and HTTP Status Codes
-
-
-**Context**  
-REST (Representational State Transfer) is an architectural style for networked applications defined by Roy Fielding in 2000. 
-It has become the dominant approach for web APIs because it provides a set of design constraints that encourage clarity and consistency.
-
-**Website**  
-Substack
-
-**Link**  
-🔗 https://rezatajari.substack.com/p/restful-api-design-and-http-status
-
----
-
-### String Formatting in C#
-
-
-**Context**  
-This article is about why string formatting exists, how the core mechanisms work, and when to choose each approach in modern C#.
-
-**Website**  
-Substack
-
-**Link**  
-🔗 https://rezatajari.substack.com/p/string-formatting-in-c
-
----
-
-### Exception Handling in ASP.NET Core
-
-
-**Context**  
-How structured error management, middleware, and intelligent logging transform your .NET applications into reliable, resilient systems
-
-**Website**  
-Substack
-
-**Link**  
-🔗 https://rezatajari.substack.com/p/exception-handling-in-aspnet-core
-
----
-
-### Subscribe to my Weekly Newsletter
-
-For regular insights on backend development, system thinking, and software engineering, you can subscribe to my newsletter:
-
-🔗 https://rezatajari.substack.com/
