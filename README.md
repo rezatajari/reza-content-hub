@@ -11,7 +11,7 @@ This repository serves as a living index of my writing and technical growth.
 - [Getting Started with CI/CD and Azure DevOps Pipelines](#getting-started-with-cicd-and-azure-devops-pipelines)
 - [RESTful API Design and HTTP Status Codes](#RESTful-API-Design-and-HTTP-Status-Codes)
 - [String Formatting in C#](#string-formatting-in-c)
-- [Exception Handling in ASP.NET Core](#Exception-Handling-in-ASP.NET-Core)
+- [Exception Handling in ASP.NET Core](#exception-handling-in-aspnet-core)
 ---
 ## مقالات فارسی
 
