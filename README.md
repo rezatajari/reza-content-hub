@@ -14,6 +14,7 @@ This repository serves as a living index of my writing and technical growth.
 - [Exception Handling in ASP.NET Core](#exception-handling-in-aspnet-core)
 - [When Validation Fails Quietly](#When-Validation-Fails-Quietly)
 - [What Is .NET? A Modern, Real-World Guide for 2026](#What-Is-NET)
+- [Understanding DbContext in EF Core: A Complete Guide](#Understanding-DbContext-in-EF-Core-A-Complete-Guide)
 ---
 ## مقالات فارسی
 
@@ -124,6 +125,19 @@ Substack
 
 **Link**  
 🔗 https://rezatajari.substack.com/p/what-is-net-a-modern-real-world-guide
+
+---
+
+### Understanding DbContext in EF Core A Complete Guide
+
+**Context**  
+If you’re entering the world of .NET, you’ve probably wondered: what is DbContext? In EF Core, DbContext acts as the primary bridge between your application and the database. It simplifies data access, manages entity sets, tracks changes, and handles database connections, enabling cleaner, maintainable code and efficient querying.
+
+**Website**  
+Substack
+
+**Link**  
+🔗 https://rezatajari.substack.com/p/understanding-dbcontext-in-ef-core
 
 ---
 ### Subscribe to my Weekly Newsletter
