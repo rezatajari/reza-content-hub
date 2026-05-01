@@ -112,7 +112,7 @@ Substack
 
 ---
 
-### What Is .NET? A Modern, Real-World Guide for 2026
+### What Is .NET
 
 **Context**  
 What Is .NET?
