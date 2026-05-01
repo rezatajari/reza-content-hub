@@ -13,6 +13,7 @@ This repository serves as a living index of my writing and technical growth.
 - [String Formatting in C#](#string-formatting-in-c)
 - [Exception Handling in ASP.NET Core](#exception-handling-in-aspnet-core)
 - [When Validation Fails Quietly](#When-Validation-Fails-Quietly)
+- [What Is .NET? A Modern, Real-World Guide for 2026](What-Is-.NET?-A-Modern-,-Real-World-Guide-for-2026)
 ---
 ## مقالات فارسی
 
@@ -111,6 +112,20 @@ Substack
 
 ---
 
+### What Is .NET? A Modern, Real-World Guide for 2026
+
+**Context**  
+What Is .NET?
+.NET is not just a framework.
+It is a unified development platform for building applications that run on desktops, cloud, web, mobile, IoT, and beyond.
+
+**Website**  
+Substack
+
+**Link**  
+🔗 https://rezatajari.substack.com/p/what-is-net-a-modern-real-world-guide
+
+---
 ### Subscribe to my Weekly Newsletter
 
 For regular insights on backend development, system thinking, and software engineering, you can subscribe to my newsletter:
