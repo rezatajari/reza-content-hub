@@ -13,7 +13,7 @@ This repository serves as a living index of my writing and technical growth.
 - [String Formatting in C#](#string-formatting-in-c)
 - [Exception Handling in ASP.NET Core](#exception-handling-in-aspnet-core)
 - [When Validation Fails Quietly](#When-Validation-Fails-Quietly)
-- [What Is .NET? A Modern, Real-World Guide for 2026](#What-Is-.NET)
+- [What Is .NET? A Modern, Real-World Guide for 2026](#What-Is-NET)
 ---
 ## مقالات فارسی
 
@@ -112,7 +112,7 @@ Substack
 
 ---
 
-### What Is .NET
+### What Is NET
 
 **Context**  
 What Is .NET?
