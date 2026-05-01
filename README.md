@@ -12,6 +12,7 @@ This repository serves as a living index of my writing and technical growth.
 - [RESTful API Design and HTTP Status Codes](#RESTful-API-Design-and-HTTP-Status-Codes)
 - [String Formatting in C#](#string-formatting-in-c)
 - [Exception Handling in ASP.NET Core](#exception-handling-in-aspnet-core)
+- [When Validation Fails Quietly](#When-Validation-Fails-Quietly)
 ---
 ## مقالات فارسی
 
@@ -91,6 +92,22 @@ Substack
 
 **Link**  
 🔗 https://rezatajari.substack.com/p/exception-handling-in-aspnet-core
+
+---
+
+### When Validation Fails Quietly
+
+**Context**  
+In theory, validation is simple.
+In practice, it’s where systems quietly decay.
+In an energy monitoring platform, incoming data isn’t just “input.”
+It represents physical reality: voltage levels, timestamps, device identities, consumption thresholds.
+
+**Website**  
+Substack
+
+**Link**  
+🔗 https://rezatajari.substack.com/p/when-validation-fails-quietly
 
 ---
 
