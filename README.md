@@ -15,6 +15,7 @@ This repository serves as a living index of my writing and technical growth.
 - [When Validation Fails Quietly](#When-Validation-Fails-Quietly)
 - [What Is .NET? A Modern, Real-World Guide for 2026](#What-Is-NET)
 - [Understanding DbContext in EF Core: A Complete Guide](#Understanding-DbContext-in-EF-Core-A-Complete-Guide)
+- [Modernizing Software Architecture](#Modernizing-Software-Architecture)
 ---
 ## مقالات فارسی
 
@@ -140,6 +141,20 @@ Substack
 🔗 https://rezatajari.substack.com/p/understanding-dbcontext-in-ef-core
 
 ---
+
+### Modernizing Software Architecture
+
+**Context**  
+Modernizing software architecture is like preparing for a journey: you need to anticipate challenges and be ready for unexpected hurdles. Just as you would prepare for sudden rain on a picnic or for a toddler’s unpredictable mood at a family gathering, modernizing architecture demands foresight, planning, and adaptability.
+
+**Website**  
+Substack
+
+**Link**  
+🔗 https://rezatajari.substack.com/p/modernizing-software-architecture
+
+---
+
 ### Subscribe to my Weekly Newsletter
 
 For regular insights on backend development, system thinking, and software engineering, you can subscribe to my newsletter:
