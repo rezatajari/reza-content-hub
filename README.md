@@ -16,6 +16,7 @@ This repository serves as a living index of my writing and technical growth.
 - [What Is .NET? A Modern, Real-World Guide for 2026](#What-Is-NET)
 - [Understanding DbContext in EF Core: A Complete Guide](#Understanding-DbContext-in-EF-Core-A-Complete-Guide)
 - [Modernizing Software Architecture](#Modernizing-Software-Architecture)
+- [Strategic Communication Framework](#strategic-communication-framework)
 ---
 ## مقالات فارسی
 
@@ -152,6 +153,19 @@ Substack
 
 **Link**  
 🔗 https://rezatajari.substack.com/p/modernizing-software-architecture
+
+---
+
+### Strategic Communication Framework
+
+**Context**  
+Technical skills may get engineers into the room, but communication determines how much impact they can create. This article explores the Strategic Communication Framework, focusing on Humility, Respect, and Trust (HRT) as the foundation of effective collaboration. It explains how strong communication reduces friction, builds stakeholder alignment, prevents micromanagement, and helps engineers navigate organizational dynamics while delivering better outcomes.
+
+**Website**  
+Substack
+
+**Link**  
+🔗 https://rezatajari.substack.com/p/strategic-communication-framework
 
 ---
 
