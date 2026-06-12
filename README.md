@@ -18,6 +18,7 @@ This repository serves as a living index of my writing and technical growth.
 - [Modernizing Software Architecture](#Modernizing-Software-Architecture)
 - [Strategic Communication Framework](#strategic-communication-framework)
 - [Why Your Code is a "Control Freak"](#why-your-code-is-a-control-freak)
+- [Engineering Standards Are Not About Rules](#engineering-standards-are-not-about-rules)
 ---
 ## مقالات فارسی
 
@@ -180,6 +181,19 @@ Substack
 
 **Link**  
 🔗 https://rezatajari.substack.com/p/why-your-code-is-a-control-freak
+
+---
+
+### Engineering Standards Are Not About Rules
+
+**Context**  
+Software systems rarely fail because of a single major mistake. More often, they degrade through small compromises that gradually become accepted as normal. This article explores pragmatic engineering principles such as personal responsibility, the Broken Windows theory, designing for change, defensive engineering, and testing as an architectural feedback mechanism. It emphasizes that engineering standards exist not to enforce rules, but to help teams build adaptable systems that can evolve reliably over time.
+
+**Website**  
+Substack
+
+**Link**  
+🔗 https://rezatajari.substack.com/p/engineering-standards-are-not-about
 
 ---
 
