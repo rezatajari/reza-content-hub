@@ -20,6 +20,7 @@ This repository serves as a living index of my writing and technical growth.
 - [Why Your Code is a "Control Freak"](#why-your-code-is-a-control-freak)
 - [Engineering Standards Are Not About Rules](#engineering-standards-are-not-about-rules)
 - [Stop Building Features Nobody Actually Needs](#stop-building-features-nobody-actually-needs)
+- [Cognitive Foundations Primer: Dismantling the Spiral](#cognitive-foundations-primer-dismantling-the-spiral)
 ---
 ## مقالات فارسی
 
@@ -208,6 +209,19 @@ Substack
 
 **Link**  
 🔗 https://rezatajari.substack.com/p/stop-building-features-nobody-actually
+
+---
+
+### Cognitive Foundations Primer: Dismantling the Spiral
+
+**Context**  
+Overthinking often feels like problem-solving, but in reality it can become a self-reinforcing cycle of anxiety, distorted thinking, and inaction. This article explores the cognitive patterns behind overthinking, the relationship between thoughts, emotions, and behavior, and practical strategies for breaking the cycle. Through concepts such as cognitive distortions, grounding techniques, acceptance, and action-oriented thinking, it presents a framework for developing greater psychological awareness and resilience.
+
+**Website**  
+Substack
+
+**Link**  
+🔗 https://rezatajari.substack.com/p/cognitive-foundations-primer
 
 ---
 
