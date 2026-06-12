@@ -17,6 +17,7 @@ This repository serves as a living index of my writing and technical growth.
 - [Understanding DbContext in EF Core: A Complete Guide](#Understanding-DbContext-in-EF-Core-A-Complete-Guide)
 - [Modernizing Software Architecture](#Modernizing-Software-Architecture)
 - [Strategic Communication Framework](#strategic-communication-framework)
+- [Why Your Code is a "Control Freak"](#why-your-code-is-a-control-freak)
 ---
 ## مقالات فارسی
 
@@ -166,6 +167,19 @@ Substack
 
 **Link**  
 🔗 https://rezatajari.substack.com/p/strategic-communication-framework
+
+---
+
+### Why Your Code is a "Control Freak"
+
+**Context**  
+Many software systems become difficult to change not because of business complexity, but because components tightly control their own dependencies. This article explains the "Control Freak" anti-pattern, how excessive use of direct object creation increases coupling, and why Dependency Injection and Inversion of Control lead to more flexible, testable, and maintainable architectures.
+
+**Website**  
+Substack
+
+**Link**  
+🔗 https://rezatajari.substack.com/p/why-your-code-is-a-control-freak
 
 ---
 
