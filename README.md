@@ -19,6 +19,7 @@ This repository serves as a living index of my writing and technical growth.
 - [Strategic Communication Framework](#strategic-communication-framework)
 - [Why Your Code is a "Control Freak"](#why-your-code-is-a-control-freak)
 - [Engineering Standards Are Not About Rules](#engineering-standards-are-not-about-rules)
+- [Stop Building Features Nobody Actually Needs](#stop-building-features-nobody-actually-needs)
 ---
 ## مقالات فارسی
 
@@ -194,6 +195,19 @@ Substack
 
 **Link**  
 🔗 https://rezatajari.substack.com/p/engineering-standards-are-not-about
+
+---
+
+### Stop Building Features Nobody Actually Needs
+
+**Context**  
+Teams often build features based on assumptions, positive feedback, or surface-level requests rather than verified user needs. This article explores how product-minded engineers validate problems before designing solutions, distinguish real pain points from proposed fixes, and use evidence-driven conversations to reduce uncertainty. It highlights the importance of learning from actual user behavior, workflows, and commitments instead of relying on hypothetical feedback.
+
+**Website**  
+Substack
+
+**Link**  
+🔗 https://rezatajari.substack.com/p/stop-building-features-nobody-actually
 
 ---
 
