@@ -27,7 +27,7 @@ This repository serves as a living index of my writing and technical growth.
 - [مسیریابی در Razor Pages: از مفاهیم پایه تا پیاده‌سازی](#مسیریابی-در-razor-pages-از-مفاهیم-پایه-تا-پیاده‌سازی)
 - [Repository Pattern در لایهٔ Infrastructure](#repository-pattern-در-لایهٔ-infrastructure)
 - [تفاوت API و REST API](#تفاوت-api-و-rest-api)
-- [Clean Code: چرا کد تمیز اهمیت دارد](#clean-code-چرا-کد-تمیز-اهمیت-دارد)
+- [قوانین Clean Code: چرا کد تمیز اهمیت دارد](#قوانین-clean-code-چرا-کد-تمیز-اهمیت-دارد)
 - [مسیردهی در API](#مسیردهی-در-API)
 - [ تفاوت فایروال‌های Stateful و Stateless](#تفاوت-فایروال‌های-Stateful-و-Stateless)
 - [چرا تغییرات کوچک در پروژه‌های بزرگ فاجعه می‌سازند؟ تجربه مهندسان تازه‌کار](#چرا-تغییرات-کوچک-در-پروژه‌های-بزرگ-فاجعه-می‌سازند)
