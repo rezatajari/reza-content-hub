@@ -21,6 +21,8 @@ This repository serves as a living index of my writing and technical growth.
 - [Engineering Standards Are Not About Rules](#engineering-standards-are-not-about-rules)
 - [Stop Building Features Nobody Actually Needs](#stop-building-features-nobody-actually-needs)
 - [Cognitive Foundations Primer: Dismantling the Spiral](#cognitive-foundations-primer-dismantling-the-spiral)
+- [Why Some Developers Stay Stuck While Others Become Leaders](#why-some-developers-stay-stuck-while-others-become-leaders)
+
 ---
 ## مقالات فارسی
 
@@ -222,6 +224,19 @@ Substack
 
 **Link**  
 🔗 https://rezatajari.substack.com/p/cognitive-foundations-primer
+
+---
+
+### Why Some Developers Stay Stuck While Others Become Leaders
+
+**Context**  
+Many developers assume career growth is primarily driven by technical expertise. While technical skills are essential, long-term progression often depends on a broader shift in perspective. This article explores the transition from simply writing code to creating business impact, navigating career paths, developing leadership capabilities, and taking ownership of outcomes. It examines the differences between technical and people leadership, the traits that define senior engineers, and the mindset required to grow from an individual contributor into a trusted organizational leader.
+
+**Website**  
+Substack
+
+**Link**  
+🔗 https://rezatajari.substack.com/p/why-some-developers-stay-stuck
 
 ---
 
