@@ -22,6 +22,7 @@ This repository serves as a living index of my writing and technical growth.
 - [Stop Building Features Nobody Actually Needs](#stop-building-features-nobody-actually-needs)
 - [Cognitive Foundations Primer: Dismantling the Spiral](#cognitive-foundations-primer-dismantling-the-spiral)
 - [Why Some Developers Stay Stuck While Others Become Leaders](#why-some-developers-stay-stuck-while-others-become-leaders)
+- [The Skill Nobody Told Me Would Matter This Much](#the-skill-nobody-told-me-would-matter)
 
 ---
 ## مقالات فارسی
@@ -237,6 +238,19 @@ Substack
 
 **Link**  
 🔗 https://rezatajari.substack.com/p/why-some-developers-stay-stuck
+
+---
+
+### The Skill Nobody Told Me Would Matter This Much
+
+**Context**
+Technical expertise is only part of what makes an effective software engineer. This article explores how communication, humility, accountability, and emotional intelligence shape long-term influence within engineering teams. It explains why trust often matters more than being right, how asking thoughtful questions can be more persuasive than giving direct answers, why taking ownership of mistakes strengthens credibility, and how recognizing the contributions of others improves collaboration. Ultimately, it argues that while technical skills open opportunities, human skills determine the impact engineers have on projects and organizations.
+
+**Website**
+Substack
+
+**Link**
+🔗 https://rezatajari.substack.com/p/the-skill-nobody-told-me-would-matter
 
 ---
 
