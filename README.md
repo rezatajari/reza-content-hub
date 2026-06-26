@@ -22,7 +22,7 @@ This repository serves as a living index of my writing and technical growth.
 - [Stop Building Features Nobody Actually Needs](#stop-building-features-nobody-actually-needs)
 - [Cognitive Foundations Primer: Dismantling the Spiral](#cognitive-foundations-primer-dismantling-the-spiral)
 - [Why Some Developers Stay Stuck While Others Become Leaders](#why-some-developers-stay-stuck-while-others-become-leaders)
-- [The Skill Nobody Told Me Would Matter This Much](#the-skill-nobody-told-me-would-matter)
+- [The Skill Nobody Told Me Would Matter This Much](#the-skill-nobody-told-me-would-matter-this-much)
 
 ---
 ## مقالات فارسی
