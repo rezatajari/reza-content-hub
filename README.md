@@ -23,6 +23,7 @@ This repository serves as a living index of my writing and technical growth.
 - [Cognitive Foundations Primer: Dismantling the Spiral](#cognitive-foundations-primer-dismantling-the-spiral)
 - [Why Some Developers Stay Stuck While Others Become Leaders](#why-some-developers-stay-stuck-while-others-become-leaders)
 - [The Skill Nobody Told Me Would Matter This Much](#the-skill-nobody-told-me-would-matter-this-much)
+- [Should We Use using or Not](#should-we-use-using-or-not)
 
 ---
 ## مقالات فارسی
@@ -251,6 +252,19 @@ Substack
 
 **Link**
 🔗 https://rezatajari.substack.com/p/the-skill-nobody-told-me-would-matter
+
+---
+
+### Should We Use using or Not
+
+**Context**
+This article explains the real purpose of `IDisposable` and when the `using` statement is actually necessary in modern .NET applications. It distinguishes between managed memory, which is handled by the Garbage Collector, and unmanaged resources, which require explicit disposal. It also clarifies how Dependency Injection in ASP.NET Core automatically manages the lifetime of services like `DbContext`, eliminating the need for manual disposal in most cases. Ultimately, it emphasizes that effective resource management is not about using `using` everywhere, but about understanding object ownership and trusting the framework when it owns the lifecycle.
+
+**Website**
+Substack
+
+**Link**
+🔗 https://rezatajari.substack.com/p/should-we-use-using-or-not
 
 ---
 
