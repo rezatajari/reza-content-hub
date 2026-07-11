@@ -24,7 +24,7 @@ This repository serves as a living index of my writing and technical growth.
 - [Why Some Developers Stay Stuck While Others Become Leaders](#why-some-developers-stay-stuck-while-others-become-leaders)
 - [The Skill Nobody Told Me Would Matter This Much](#the-skill-nobody-told-me-would-matter-this-much)
 - [Should We Use using or Not](#should-we-use-using-or-not)
-- [Demystifying .NET Garbage Collection](#demystifying-.NET-garbage-collection)
+- [Demystifying .NET Garbage Collection](#demystifying-net-garbage-collection)
 
 ---
 ## مقالات فارسی
