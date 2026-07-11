@@ -24,6 +24,7 @@ This repository serves as a living index of my writing and technical growth.
 - [Why Some Developers Stay Stuck While Others Become Leaders](#why-some-developers-stay-stuck-while-others-become-leaders)
 - [The Skill Nobody Told Me Would Matter This Much](#the-skill-nobody-told-me-would-matter-this-much)
 - [Should We Use using or Not](#should-we-use-using-or-not)
+- [Demystifying .NET Garbage Collection](#demystifying-.NET-garbage-collection)
 
 ---
 ## مقالات فارسی
@@ -265,6 +266,19 @@ Substack
 
 **Link**
 🔗 https://rezatajari.substack.com/p/should-we-use-using-or-not
+
+---
+
+### Demystifying .NET Garbage Collection
+
+**Context**
+Demystifying .NET Garbage Collection explores what really happens after you create an object with new in a .NET application. Rather than treating the Garbage Collector as "magic," the article explains how the CLR manages memory, how the GC identifies and reclaims unused objects, and why generations make memory cleanup highly efficient. It also clarifies the difference between managed memory and unmanaged resources, showing when Dispose() is necessary and when the framework handles cleanup automatically. By understanding concepts like GC Roots, object lifetimes, finalizers, and dependency injection, developers can write applications that are not only correct but also more scalable and performant.
+
+**Website**
+Substack
+
+**Link**
+🔗 https://rezatajari.substack.com/p/demystifying-net-garbage-collection
 
 ---
 
