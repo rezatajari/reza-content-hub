@@ -25,6 +25,7 @@ This repository serves as a living index of my writing and technical growth.
 - [The Skill Nobody Told Me Would Matter This Much](#the-skill-nobody-told-me-would-matter-this-much)
 - [Should We Use using or Not](#should-we-use-using-or-not)
 - [Demystifying .NET Garbage Collection](#demystifying-net-garbage-collection)
+- [Why the Strategy Pattern Is the Secret Sauce of Clean Code](#why-the-strategy-pattern-is-the-secret-sauce-of-clean-code)
 
 ---
 ## مقالات فارسی
@@ -279,6 +280,19 @@ Substack
 
 **Link**
 🔗 https://rezatajari.substack.com/p/demystifying-net-garbage-collection
+
+---
+
+### Why the Strategy Pattern Is the Secret Sauce of Clean Code
+
+**Context**
+The Strategy Pattern helps keep software maintainable by separating changing business logic into independent strategy classes instead of large, condition-heavy classes. It supports SOLID principles, especially SRP, OCP, ISP, and DIP, making systems easier to extend without modifying existing code. By favoring composition over inheritance, it reduces coupling and improves flexibility. A growing if-else or switch block is often a sign that the Strategy Pattern should be applied. As applications evolve, Strategy also works naturally with Factory patterns to build scalable and adaptable architectures.
+
+**Website**
+Substack
+
+**Link**
+🔗 https://rezatajari.substack.com/p/why-the-strategy-pattern-is-the-secret
 
 ---
 
