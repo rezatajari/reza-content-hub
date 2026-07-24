@@ -26,7 +26,7 @@ This repository serves as a living index of my writing and technical growth.
 - [Should We Use using or Not](#should-we-use-using-or-not)
 - [Demystifying .NET Garbage Collection](#demystifying-net-garbage-collection)
 - [Why the Strategy Pattern Is the Secret Sauce of Clean Code](#why-the-strategy-pattern-is-the-secret-sauce-of-clean-code)
-
+- [.NET Engineering Glossary](#net-engineering-glossary)
 ---
 ## مقالات فارسی
 
@@ -296,6 +296,18 @@ Substack
 
 ---
 
+### .NET Engineering Glossary
+
+**Context**
+This article is a practical glossary of essential .NET and software engineering concepts that developers frequently encounter in real projects. It explains key topics across REST APIs, testing, software architecture, and modern .NET development in clear, beginner-friendly language. Rather than focusing on implementation, it builds the vocabulary needed to understand documentation, code reviews, and technical discussions. The guide covers concepts such as DTOs, Idempotency, TDD, SOLID principles, Technical Debt, Refactoring, and Record types. It also introduces modern .NET tools and features like the CLI, TFMs, and Hot Reload. Overall, it serves as a quick reference to strengthen both technical communication and architectural understanding.
+
+**Website**
+Substack
+
+**Link**
+🔗 https://rezatajari.substack.com/p/net-engineering-glossary
+
+---
 ### Subscribe to my Weekly Newsletter
 
 For regular insights on backend development, system thinking, and software engineering, you can subscribe to my newsletter:
