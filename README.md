@@ -27,6 +27,7 @@ This repository serves as a living index of my writing and technical growth.
 - [Demystifying .NET Garbage Collection](#demystifying-net-garbage-collection)
 - [Why the Strategy Pattern Is the Secret Sauce of Clean Code](#why-the-strategy-pattern-is-the-secret-sauce-of-clean-code)
 - [.NET Engineering Glossary](#net-engineering-glossary)
+- [Building Software Without Glue](#building-software-without-glue)
 ---
 ## مقالات فارسی
 
@@ -306,6 +307,19 @@ Substack
 
 **Link**
 🔗 https://rezatajari.substack.com/p/net-engineering-glossary
+
+---
+
+### Building Software Without Glue
+
+**Context**
+This article explains the core ideas behind Dependency Injection (DI), Inversion of Control (IoC), and IoC Containers using a simple LEGO analogy. It shows why creating dependencies with `new` inside classes leads to tight coupling and makes software harder to test and maintain. The article clarifies the difference between IoC as a design principle and DI as its implementation, while explaining how IoC containers resolve dependencies and manage object lifetimes. It also highlights the role of interfaces, the Composition Root, and service registration in ASP.NET Core. Finally, it outlines practical guidelines for writing flexible, loosely coupled applications that are easier to extend, test, and maintain.
+
+**Website**
+Substack
+
+**Link**
+🔗 https://rezatajari.substack.com/p/building-software-without-glue
 
 ---
 ### Subscribe to my Weekly Newsletter
