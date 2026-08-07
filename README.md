@@ -28,6 +28,7 @@ This repository serves as a living index of my writing and technical growth.
 - [Why the Strategy Pattern Is the Secret Sauce of Clean Code](#why-the-strategy-pattern-is-the-secret-sauce-of-clean-code)
 - [.NET Engineering Glossary](#net-engineering-glossary)
 - [Building Software Without Glue](#building-software-without-glue)
+- [The Evolution of Object Mapping in .NET](#the-evolution-of-object-mapping-in-nET)
 ---
 ## مقالات فارسی
 
@@ -320,6 +321,19 @@ Substack
 
 **Link**
 🔗 https://rezatajari.substack.com/p/building-software-without-glue
+
+---
+
+### The Evolution of Object Mapping in .NET
+
+**Context**
+his article explores the evolution of object mapping in .NET, tracing its path from manual assignments to advanced tools like AutoMapper and Mapperly. It explains that object mapping is an architectural decision rather than a simple technical utility, serving to cleanly separate external Request DTOs from internal domain entities. The piece shows how manual mapping works well for small apps but eventually violates the Single Responsibility Principle as service classes grow bogged down with transformation logic. It details the transition toward generic mappers and centralized mapping services, noting how runtime libraries like AutoMapper reduce boilerplate while introducing performance trade-offs. Modern .NET approaches are highlighted through Mapperly, which uses compile-time source generators to eliminate reflection overhead, ensure type safety, and allow full code inspection. Ultimately, the article emphasizes that the right mapping strategy depends on project requirements, reminding developers that proper separation of concerns is what keeps software maintainable.
+
+**Website**
+Substack
+
+**Link**
+🔗 https://rezatajari.substack.com/p/the-evolution-of-object-mapping-in
 
 ---
 ### Subscribe to my Weekly Newsletter
