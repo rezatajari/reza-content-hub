@@ -29,6 +29,7 @@ This repository serves as a living index of my writing and technical growth.
 - [.NET Engineering Glossary](#net-engineering-glossary)
 - [Building Software Without Glue](#building-software-without-glue)
 - [The Evolution of Object Mapping in .NET](#the-evolution-of-object-mapping-in-nET)
+- [Sparse Mapping](#Sparse-Mapping)
 ---
 ## مقالات فارسی
 
@@ -336,6 +337,20 @@ Substack
 🔗 https://rezatajari.substack.com/p/the-evolution-of-object-mapping-in
 
 ---
+
+### Sparse Mapping
+
+**Context**
+This article explores a practical approach to object mapping called Sparse Mapping, where mapping is treated as default coverage + sparse exceptions rather than rewriting an entire DTO whenever a few fields require special handling. It explains how traditional load-and-map approaches can lead to deep entity graphs, unnecessary data loading, duplicated translation logic, and handlers that become a second source of truth for DTO structure. The article proposes three clear responsibilities: the mapper handles default fields, sparse SQL projections handle fields requiring joins, translations, or computed values, and post-query enrichment handles service calls or other non-SQL logic. It introduces a decision tree for choosing between these approaches and emphasizes that custom mapping should override only the exceptional fields while leaving the default mapping intact. The article also covers nested collections, migration strategies, common pitfalls such as relying on OnMap with projection, and the importance of comparing response parity during migration. Ultimately, the core message is that mapping exceptions should remain small and explicit: custom mapping should identify what is special, not become a second implementation of the entire DTO.
+
+**Website**
+Substack
+
+**Link**
+🔗 https://rezatajari.substack.com/p/sparse-mapping
+
+---
+
 ### Subscribe to my Weekly Newsletter
 
 For regular insights on backend development, system thinking, and software engineering, you can subscribe to my newsletter:
