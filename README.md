@@ -30,6 +30,7 @@ This repository serves as a living index of my writing and technical growth.
 - [Building Software Without Glue](#building-software-without-glue)
 - [The Evolution of Object Mapping in .NET](#the-evolution-of-object-mapping-in-nET)
 - [Sparse Mapping](#Sparse-Mapping)
+- [The Excel Template Nobody Sees Until It Breaks](#the-excel-template-nobody-sees-until-it-breaks)
 ---
 ## مقالات فارسی
 
@@ -348,6 +349,24 @@ Substack
 
 **Link**
 🔗 https://rezatajari.substack.com/p/sparse-mapping
+
+---
+
+### The Excel Template Nobody Sees Until It Breaks
+
+**Context**  
+This article reflects on the hidden complexity of building Excel export and import for operational forms in business systems.  
+It explains that Excel is not just a file, but a round-trip contract that must preserve structure, column order, and mapping rules.  
+The piece shows how export and import should share one template identity, connecting UI actions, runtime handlers, and database metadata.  
+It also highlights the importance of bind paths, seed data, and migrations in making Excel features truly available in production.  
+A key lesson is that generic Excel support reduces custom importer work, but only if templates are treated as versioned schemas.  
+Overall, the article presents Excel integration as a disciplined engineering pattern, not a simple convenience feature.
+
+**Website**
+Substack
+
+**Link**
+🔗 https://rezatajari.substack.com/p/the-excel-template-nobody-sees-until
 
 ---
 
