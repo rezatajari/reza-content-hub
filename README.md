@@ -31,6 +31,7 @@ This repository serves as a living index of my writing and technical growth.
 - [The Evolution of Object Mapping in .NET](#the-evolution-of-object-mapping-in-nET)
 - [Sparse Mapping](#Sparse-Mapping)
 - [The Excel Template Nobody Sees Until It Breaks](#the-excel-template-nobody-sees-until-it-breaks)
+- [The Modular Monolith](#the-modular-monolith)
 ---
 ## مقالات فارسی
 
@@ -367,6 +368,20 @@ Substack
 
 **Link**
 🔗 https://rezatajari.substack.com/p/the-excel-template-nobody-sees-until
+
+---
+
+### The Modular Monolith
+
+**Context**
+Many teams assume that a monolith must become a tangled codebase or eventually be replaced by microservices. This article explores the Modular Monolith as an alternative that keeps a single deployment while enforcing strong internal boundaries. It explains how modules should own their data, expose contracts, and follow controlled dependency directions. The article also covers communication through direct requests and events, along with practical patterns for handling shared data without creating tight coupling. Ultimately, it shows how modular boundaries improve onboarding, debugging, refactoring, and deployment while keeping the system simpler to operate.
+
+
+**Website**
+Substack
+
+**Link**
+🔗 https://rezatajari.substack.com/p/the-modular-monolith
 
 ---
 
