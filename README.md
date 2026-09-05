@@ -32,6 +32,7 @@ This repository serves as a living index of my writing and technical growth.
 - [Sparse Mapping](#Sparse-Mapping)
 - [The Excel Template Nobody Sees Until It Breaks](#the-excel-template-nobody-sees-until-it-breaks)
 - [The Modular Monolith](#the-modular-monolith)
+- [MVVM Explained From a Hotel Front Desk](mVVM-explained-from-a-hotel-front-desk)
 ---
 ## مقالات فارسی
 
@@ -382,6 +383,20 @@ Substack
 
 **Link**
 🔗 https://rezatajari.substack.com/p/the-modular-monolith
+
+---
+
+### MVVM Explained From a Hotel Front Desk
+
+**Context**
+This article explains MVVM through a hotel reservation example, showing how one screen should be split into three responsibilities: the View for presentation, the ViewModel for screen state and user actions, and the Model for business rules and domain behavior. It emphasizes that the View knows the ViewModel, the ViewModel coordinates with the Model, but the ViewModel should never directly depend on UI controls. Data binding replaces manual UI updates by automatically synchronizing ViewModel properties, collections, and commands with the screen. It also shows how C# features such as ObservableProperty, ObservableCollection, and RelayCommand make MVVM inexpensive to implement. The main design rule is simple: UI-specific decisions belong in the View or ViewModel, while business rules that remain true without a screen belong in the Model. Ultimately, MVVM improves separation of concerns, testability, maintainability, and reuse by keeping presentation, screen behavior, and business logic independent.
+
+
+**Website**
+Substack
+
+**Link**
+🔗 https://rezatajari.substack.com/p/new-2mvvm-explained-from-a-hotel
 
 ---
 
