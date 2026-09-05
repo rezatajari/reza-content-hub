@@ -32,7 +32,7 @@ This repository serves as a living index of my writing and technical growth.
 - [Sparse Mapping](#Sparse-Mapping)
 - [The Excel Template Nobody Sees Until It Breaks](#the-excel-template-nobody-sees-until-it-breaks)
 - [The Modular Monolith](#the-modular-monolith)
-- [MVVM Explained From a Hotel Front Desk](mvvm-explained-from-a-hotel-front-desk)
+- [MVVM Explained From a Hotel Front Desk](#mvvm-explained-from-a-hotel-front-desk)
 ---
 ## مقالات فارسی
 
