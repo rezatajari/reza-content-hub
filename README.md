@@ -33,6 +33,7 @@ This repository serves as a living index of my writing and technical growth.
 - [The Excel Template Nobody Sees Until It Breaks](#the-excel-template-nobody-sees-until-it-breaks)
 - [The Modular Monolith](#the-modular-monolith)
 - [MVVM Explained From a Hotel Front Desk](#mvvm-explained-from-a-hotel-front-desk)
+- [Reflection in Action](#reflection-in-action)
 ---
 ## مقالات فارسی
 
@@ -400,6 +401,24 @@ Substack
 
 ---
 
+### Reflection in Action
+
+**Context**
+Reflection isn’t slow, reflection without a cache is.
+Use it when the shape of the problem only exists at runtime.
+Five practical cases: discovery, attributes, dynamic queries, generics, and external data.
+The key: reflect once, cache stable metadata, and keep hot paths typed.
+Prefer `nameof` and source generators when the compiler can do the job.
+Good reflection isn’t avoiding type safety — it’s bridging typed code and an untyped world.
+
+
+**Website**
+Substack
+
+**Link**
+🔗 https://rezatajari.substack.com/p/reflection-in-action
+
+---
 ### Subscribe to my Weekly Newsletter
 
 For regular insights on backend development, system thinking, and software engineering, you can subscribe to my newsletter:
