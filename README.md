@@ -34,6 +34,7 @@ This repository serves as a living index of my writing and technical growth.
 - [The Modular Monolith](#the-modular-monolith)
 - [MVVM Explained From a Hotel Front Desk](#mvvm-explained-from-a-hotel-front-desk)
 - [Reflection in Action](#reflection-in-action)
+- [Reflection](#Reflection)
 ---
 ## مقالات فارسی
 
@@ -417,6 +418,25 @@ Substack
 
 **Link**
 🔗 https://rezatajari.substack.com/p/reflection-in-action
+
+---
+
+### Reflection
+
+**Context**
+Reflection in C# allows programs to inspect and work with types at runtime.
+It is useful when the exact types or properties are not known beforehand.
+The article demonstrates using Reflection to compare and copy properties dynamically.
+It can also discover and instantiate classes based on naming conventions.
+This approach reduces repetitive code but sacrifices compile-time safety and adds runtime cost.
+The key idea: use Reflection for generic, dynamic rules—not for simple, known types.
+
+
+**Website**
+Substack
+
+**Link**
+🔗 https://rezatajari.substack.com/p/reflection
 
 ---
 ### Subscribe to my Weekly Newsletter
