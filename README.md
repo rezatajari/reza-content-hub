@@ -35,6 +35,7 @@ This repository serves as a living index of my writing and technical growth.
 - [MVVM Explained From a Hotel Front Desk](#mvvm-explained-from-a-hotel-front-desk)
 - [Reflection in Action](#reflection-in-action)
 - [Reflection](#Reflection)
+- [From Business Requirement to Code](from-business-requirement-to-code)
 ---
 ## مقالات فارسی
 
@@ -437,6 +438,25 @@ Substack
 
 **Link**
 🔗 https://rezatajari.substack.com/p/reflection
+
+---
+
+### From Business Requirement to Code
+
+**Context**
+Business software should model the real business document and rules, not just the UI or database.
+Start by identifying the document, its repeating lines, invariants, and scenario-specific variations.
+For header–line data, model one document with multiple items and group imported rows accordingly.
+For different line types, use named categories and focused validators instead of large conditional blocks.
+Configuration, DTOs, handlers, validators, and import/export templates should each have a clear responsibility.
+The goal is executable policy: code whose structure and terminology closely reflect the original business requirement.
+
+
+**Website**
+Substack
+
+**Link**
+🔗 https://rezatajari.substack.com/p/from-business-requirement-to-code
 
 ---
 ### Subscribe to my Weekly Newsletter
