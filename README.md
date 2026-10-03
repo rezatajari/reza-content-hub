@@ -36,6 +36,7 @@ This repository serves as a living index of my writing and technical growth.
 - [Reflection in Action](#reflection-in-action)
 - [Reflection](#Reflection)
 - [From Business Requirement to Code](#from-business-requirement-to-code)
+- [Blazor Components](#blazor-components)
 ---
 ## مقالات فارسی
 
@@ -459,6 +460,29 @@ Substack
 🔗 https://rezatajari.substack.com/p/from-business-requirement-to-code
 
 ---
+### Blazor Components
+
+**Context**
+Blazor components are C# classes that render UI, using familiar concepts like properties, events, and composition to structure frontend applications.
+Start by giving each component a clear responsibility and keep ownership of state in the parent component.
+For parent–child communication, use parameters for data down and EventCallback for events up.
+Sibling components should not communicate directly; they should communicate through their shared parent, which owns the source of truth.
+For two-way binding, @bind combines a value parameter with its corresponding *Changed callback.
+For values that are ambient across a component subtree—such as theme, user context, or edit mode—use CascadingParameter rather than passing the value through every layer.
+For reusable UI structure, use RenderFragment to let parents inject markup into child components. Prefer composition and slots over inheritance because they keep components flexible and easier to maintain.
+Avoid multiple components independently mutating the same state, using statics as shared application state, or cascading entire domain models just to avoid defining parameters.
+A component should expose a small, explicit API: values in, events out, markup in the middle.
+The goal is a predictable component architecture where one owner controls the state, children focus on presentation and user interaction, and the relationships between components remain as clear as the relationships between well-designed C# classes.
+
+
+**Website**
+Substack
+
+**Link**
+🔗 https://rezatajari.substack.com/p/blazor-components
+
+---
+
 ### Subscribe to my Weekly Newsletter
 
 For regular insights on backend development, system thinking, and software engineering, you can subscribe to my newsletter:
