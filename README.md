@@ -37,6 +37,7 @@ This repository serves as a living index of my writing and technical growth.
 - [Reflection](#Reflection)
 - [From Business Requirement to Code](#from-business-requirement-to-code)
 - [Blazor Components](#blazor-components)
+- [Convention Over Configuration](#convention-over-configuration)
 ---
 ## مقالات فارسی
 
@@ -476,6 +477,20 @@ Substack
 
 **Link**
 🔗 https://rezatajari.substack.com/p/blazor-components
+
+---
+
+### Convention Over Configuration
+
+**Context**
+Convention over Configuration reduces manual registration by deriving application behavior from consistent naming rules. Instead of maintaining separate routes, permissions, dependency injection registrations, and handler mappings, use a predictable `{Action}{Entity}Handler` pattern. Reflection discovers handlers at startup, while naming conventions determine routes and permissions automatically. Class names become architectural contracts that improve discoverability and reduce maintenance errors. Use explicit configuration or attributes only for exceptional cases, keeping overrides close to the relevant class. The goal is a single source of truth: predictable, scalable architecture with less boilerplate and fewer forgotten registrations.
+
+
+**Website**
+Substack
+
+**Link**
+🔗 https://rezatajari.substack.com/p/convention-over-configuration
 
 ---
 
